@@ -25,3 +25,8 @@ footer .theme-by {
   float: right;
   display: block;
 }
+
+/* MY */
+.credits.theme-by {
+  display: none;
+}
